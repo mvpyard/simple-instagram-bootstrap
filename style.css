@@ -1,3 +1,18 @@
 .post-number{
-    color: gray;
+  color: gray;
+}
+
+.cart-options {
+  margin-top: -32px;
+}
+
+.h-eclipse {
+  position: absolute;
+  top: 480px;
+  left: 350px;
+}
+
+.card-img {
+  width: 708px !important;
+  height: 472px !important;
 }
